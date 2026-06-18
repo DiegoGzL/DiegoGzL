@@ -1,43 +1,72 @@
-# ¡Hola! Soy Diego González 👋
+<h1 align="center">¡Hola! Soy Diego Josue Gonzalez Luna 👋</h1>
 
-Estudiante de Ingeniería en Sistemas Computacionales en la Universidad de Guanajuato.
+<p align="center">
+Estudiante de Ingeniería en Sistemas Computacionales en la Universidad de Guanajuato (DICIS).
+</p>
 
-Me interesa el desarrollo backend, arquitectura de software, computación en la nube e inteligencia artificial. Disfruto construir aplicaciones escalables y resolver problemas mediante software.
+---
 
 ## Sobre mí
 
-- Desarrollo Full Stack con enfoque en Backend.
-- Interés en Cloud Computing e Inteligencia Artificial.
-- Experiencia académica en redes Cisco y sistemas embebidos.
-- Aprendizaje continuo y gusto por los retos tecnológicos.
+Soy estudiante de Ingeniería en Sistemas Computacionales con interés en desarrollo backend, arquitectura de software, computación en la nube e inteligencia artificial.
+
+Disfruto diseñar y desarrollar soluciones tecnológicas que resuelvan problemas reales, aplicando buenas prácticas de programación, bases de datos, servicios en la nube y desarrollo web moderno.
+
+Actualmente me encuentro realizando proyectos académicos y profesionales enfocados en desarrollo full-stack, APIs REST, sistemas empresariales y tecnologías cloud.
+
+---
 
 ## Tecnologías
 
+### Lenguajes de Programación
+
+- JavaScript
+- TypeScript
+- Python
+- C#
+- C++
+- SQL
+
 ### Frontend
-React • Vue.js • Nuxt.js • HTML • CSS • JavaScript • TypeScript • Tailwind CSS
+
+- React
+- Vue.js
+- Nuxt.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
 ### Backend
-Node.js • Express.js • Flask
+
+- Node.js
+- Express.js
 
 ### Bases de Datos
-MySQL • Firebase Firestore
 
-### Cloud y DevOps
-Docker • Firebase • Cloudinary
+- MySQL
+- Firebase Firestore
+
+### Cloud
+
+- Firebase
+- Cloudinary
+
+### DevOps
+
+- Docker
+
+### Desarrollo Móvil
+
+- React Native
+- Expo
+- Android Studio
 
 ### Control de Versiones
-Git • GitHub
 
-## Proyectos Destacados
+- Git
+- GitHub
 
-### ERP para Gestión Empresarial
-Sistema web desarrollado con Node.js, Vue.js y Firebase.
+---
 
-### Sistema de Control de Inventario
-Aplicación basada en Kanban utilizando Firebase Firestore.
-
-### CyberCore-QC
-Sistema híbrido de IA para inspección de calidad utilizando CNN, lógica difusa y algoritmos genéticos.
-
-### API REST Segura
-Backend con autenticación JWT, arquitectura por capas y Docker.
+⭐ Siempre abierto a aprender nuevas tecnologías y participar en proyectos que representen retos interesantes.
