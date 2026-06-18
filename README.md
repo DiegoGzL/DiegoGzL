@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! Soy Diego González 👋
 
-<!--
-**DiegoGzL/DiegoGzL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales en la Universidad de Guanajuato.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo backend, arquitectura de software, computación en la nube e inteligencia artificial. Disfruto construir aplicaciones escalables y resolver problemas mediante software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Desarrollo Full Stack con enfoque en Backend.
+- Interés en Cloud Computing e Inteligencia Artificial.
+- Experiencia académica en redes Cisco y sistemas embebidos.
+- Aprendizaje continuo y gusto por los retos tecnológicos.
+
+## Tecnologías
+
+### Frontend
+React • Vue.js • Nuxt.js • HTML • CSS • JavaScript • TypeScript • Tailwind CSS
+
+### Backend
+Node.js • Express.js • Flask
+
+### Bases de Datos
+MySQL • Firebase Firestore
+
+### Cloud y DevOps
+Docker • Firebase • Cloudinary
+
+### Control de Versiones
+Git • GitHub
+
+## Proyectos Destacados
+
+### ERP para Gestión Empresarial
+Sistema web desarrollado con Node.js, Vue.js y Firebase.
+
+### Sistema de Control de Inventario
+Aplicación basada en Kanban utilizando Firebase Firestore.
+
+### CyberCore-QC
+Sistema híbrido de IA para inspección de calidad utilizando CNN, lógica difusa y algoritmos genéticos.
+
+### API REST Segura
+Backend con autenticación JWT, arquitectura por capas y Docker.
